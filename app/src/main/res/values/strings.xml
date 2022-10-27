@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+
+    <string name="crime_title_hint">Enter a title for the crime.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="crime_requires_police_label">Requires Police</string>
+    <string name="start_list">В начало списка</string>
+    <string name="end_list">В конец списка</string>
+    <string name="date_picker_title">Date of crime:</string>
+
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d crimes</string>
+
+    <string name="delete_crime">Delete crime</string>
+    <string name="dialog_crime_delete_text">Вы действительно хотите удалить это преступление?</string>
+    <string name="cancel_button">Отмена</string>
+    <string name="add_crime_button">Добавить новое преступление</string>
+
+    <string name="crime_suspect_text">Choose Suspect</string>
+    <string name="crime_report_text">Send Crime Report</string>
+    <string name="crime_report">%1$s! The crime was discovered on %2$s. %3$s, %4$s and %5$s</string>
+
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_police">The police is required.</string>
+    <string name="crime_report_not_police">The police is not required.</string>
+
+    <string name="crime_report_no_suspect">there is no suspect.</string>
+    <string name="crime_report_suspect">the suspect is %s</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Send crime report via</string>
+    <string name="crime_report_phone">Номер телефона: </string>
+
+    <!--TalkBack-->
+    <string name="crime_photo_button_description">Take photo of crime scene</string>
+    <string name="crime_photo_no_image_description">Crime scene photo (not set)</string>
+    <string name="crime_photo_image_description">Crime scene photo (set)</string>
+    <!--end_TalkBack-->
+</resources>
